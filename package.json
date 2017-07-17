@@ -1,0 +1,21 @@
+{
+    "author": "ben.smith140@det.nsw.edu.au",
+    "dependencies": {},
+    "keywords": [],
+    "name": "g-force-meter",
+    "pebble": {
+        "displayName": "G-Force Meter",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "05b2d12f-2d07-4019-9755-c3008437f0bc",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
