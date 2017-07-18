@@ -1,5 +1,5 @@
 #include <pebble.h>
-
+//hellooo,lllolll
 static Window *window;
 static TextLayer *text_layer;
 
