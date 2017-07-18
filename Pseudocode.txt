@@ -1,0 +1,31 @@
+logMovement():
+  x = x_movement
+  y = y_movement
+  z = z_movement
+  array.append(abs(x) + (abs(y) + abs(z))
+  
+displayLog():
+num = 0
+  for i in range(0, len(array)):
+    draw line from coord(num, array[i]) to coord(num+1, array[i+1])
+
+MAIN()
+  array = empty array
+  while true:
+    if button_pressed(center):
+      while true:
+        if button_pressed(back):
+          break
+        else:
+          logMovement()
+          displayLog()
+    if button_pressed(back):
+      return()
+    if button_pressed(up):
+      array = empty array
+    
+    
+    
+
+  
+  
