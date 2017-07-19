@@ -8,6 +8,7 @@ displayLog():
 num = 0
   for i in range(0, len(array)):
     draw line from coord(num, array[i]) to coord(num+1, array[i+1])
+    num++
 
 MAIN()
   array = empty array
@@ -22,6 +23,7 @@ MAIN()
     if button_pressed(back):
       return()
     if button_pressed(up):
+      send array to phone
       array = empty array
     
     
