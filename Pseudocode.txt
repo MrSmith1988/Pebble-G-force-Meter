@@ -2,7 +2,7 @@ logMovement():
   x = x_movement
   y = y_movement
   z = z_movement
-  array.append(abs(x) + (abs(y) + abs(z))
+  array.append(abs(x) + abs(y) + abs(z))
   
 displayLog():
 num = 0
