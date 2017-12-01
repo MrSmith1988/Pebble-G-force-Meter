@@ -1,3 +1,4 @@
+/*
 #include <pebble.h>
 // Test comment github!
 static Window *window;
@@ -58,3 +59,4 @@ int main(void) {
   app_event_loop();
   deinit();
 }
+*/
